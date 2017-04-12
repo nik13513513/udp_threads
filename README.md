@@ -1,29 +1,3 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Написать программу на С++/Qt, которая передает и принимает данные через udp. В главном потоке GUI, в другом потоке сервер, в третьем потоке клиент. Два запущенных экземпляра программы должны обмениваться между собой текстовыми сообщениями. В конфигурационном файле иметь возможность задать ip и порты для чтения и записи.

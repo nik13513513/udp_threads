@@ -1,0 +1,8 @@
+syntax: glob
+debug/*.obj
+debug/*
+*.user
+ui_*.h
+Makefile
+Makefile.Debug
+Makefile.Release
