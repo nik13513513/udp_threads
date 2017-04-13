@@ -6,3 +6,7 @@ ui_*.h
 Makefile
 Makefile.Debug
 Makefile.Release
+*.o
+moc_*.cpp
+udptest
+udpsettings.ini
